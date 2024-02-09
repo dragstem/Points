@@ -1,0 +1,34 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<SOAP-ENC:Array SOAP-ENC:arrayType="a1:Point[5]" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/PointLib/PointLib%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<item href="#ref-3"/>
+<item href="#ref-4"/>
+<item href="#ref-5"/>
+<item href="#ref-6"/>
+<item href="#ref-7"/>
+</SOAP-ENC:Array>
+<a2:Point3D id="ref-3" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/FormsApp/FormsApp%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_x003C_Z_x003E_k__BackingField>1</_x003C_Z_x003E_k__BackingField>
+<Point_x002B__X>3</Point_x002B__X>
+<Point_x002B__Y>3</Point_x002B__Y>
+</a2:Point3D>
+<a2:Point3D id="ref-4" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/FormsApp/FormsApp%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_x003C_Z_x003E_k__BackingField>1</_x003C_Z_x003E_k__BackingField>
+<Point_x002B__X>1</Point_x002B__X>
+<Point_x002B__Y>5</Point_x002B__Y>
+</a2:Point3D>
+<a1:Point id="ref-5" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/PointLib/PointLib%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_X>2</_X>
+<_Y>6</_Y>
+</a1:Point>
+<a1:Point id="ref-6" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/PointLib/PointLib%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_X>3</_X>
+<_Y>2</_Y>
+</a1:Point>
+<a2:Point3D id="ref-7" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/FormsApp/FormsApp%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_x003C_Z_x003E_k__BackingField>0</_x003C_Z_x003E_k__BackingField>
+<Point_x002B__X>6</Point_x002B__X>
+<Point_x002B__Y>1</Point_x002B__Y>
+</a2:Point3D>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
